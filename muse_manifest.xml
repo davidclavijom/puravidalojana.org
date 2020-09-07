@@ -1,0 +1,1172 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" ftp_hostname="ftp://puravidalojana.org" ftp_rootfolder="/public_html" exportTarget="FTP" domain="puravidalojana.org" resolutions="1x" timestamp="1596044733756">
+  <folder name="css">
+    <file name="site_global.css" crc="4247903385"/>
+    <file name="index.css" crc="29470761" ref="index"/>
+    <file name="nomq_index.css" crc="428469371" ref="index"/>
+    <file name="iefonts_index.css" crc="118292419" ref="index"/>
+    <file name="recetas.css" crc="383211208" ref="recetas"/>
+    <file name="nomq_recetas.css" crc="4171758736" ref="recetas"/>
+  </folder>
+  <folder name="fonts">
+    <file name="roboto-bold.woff" crc="88170056"/>
+    <file name="roboto-bold.eot" crc="395037782"/>
+    <file name="roboto-bold.svg" crc="217376173"/>
+    <file name="twister.woff" crc="3878157509"/>
+    <file name="twister.eot" crc="279266883"/>
+    <file name="twister.svg" crc="3899647995"/>
+  </folder>
+  <folder name="assets">
+    <file name="font-awesome.css" crc="171187536" seo="true" mt="1566495330000"/>
+    <file name="hover-min.css" crc="3881979905" seo="true" mt="1528703074000"/>
+    <file name="jquery.counterup.min.js" crc="3831897152" seo="true" mt="1546476144000"/>
+    <file name="artiss_-_tropical__summer.mp3" crc="4239307121" seo="true" mt="1591765342000"/>
+    <file name="articulo_academico.pdf" crc="113916184" seo="true" mt="1328026960000"/>
+    <file name="deficiencia-de-nutrientes.pdf" crc="463812602" seo="true" mt="1595120143000"/>
+    <file name="puravidalojana_podcast01_vidasintemor.mp3" crc="4080173481" seo="true" mt="1595278423000"/>
+    <file name="6_tapa_olla_1900x710.png" crc="384879184" seo="true" mt="1595428158000"/>
+    <file name="5_olla_1900x710.png" crc="89300511" seo="true" mt="1595428133000"/>
+    <file name="4_letrero_recetas_1900x710.png" crc="368071551" seo="true" mt="1595428110000"/>
+    <file name="3_food_up_1900x710.png" crc="3899021027" seo="true" mt="1595428081000"/>
+    <file name="2_food_down_1900x710.png" crc="3984758381" seo="true" mt="1595428047000"/>
+    <file name="1_fondo_1900x710.png" crc="506771925" seo="true" mt="1595427966000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:recetas"/>
+    <file name="museutils.js" crc="4232573551" ref="index:recetas"/>
+    <file name="whatinput.js" crc="86476730" ref="index:recetas"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:recetas"/>
+    <file name="webpro.js" crc="3770351119" ref="index:recetas"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index:recetas"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index:recetas"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index:recetas"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:recetas"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:recetas"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:recetas"/>
+    <file name="form_check.php" crc="218939094" ref="index"/>
+    <file name="form_process.php" crc="238541442" ref="index"/>
+    <file name="form-u6304.php" crc="4278180928" ref="index"/>
+    <file name="form-u6568.php" crc="3865935285" ref="index"/>
+    <file name="musewpdisclosure.js" crc="347705465" ref="index:recetas"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="index:recetas"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:recetas"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index:recetas"/>
+    <file name="require.js" crc="4234670167" ref="index:recetas"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="474088556" ref="index"/>
+    <file name="cabecera-06.jpg" crc="480767661" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:recetas"/>
+    <file name="cabecera-04.jpg" crc="476650563" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cabecera-05.jpg" crc="4099668992" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cabecera-07.jpg" crc="3769260726" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cabecera-03.jpg" crc="4063986551" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="podcast_logo_blanco.png" crc="4253879821" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="articulo_logo_blanco.png" crc="4111956555" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="educacion_logo_blanco.png" crc="4017018857" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recetas_logo_blanco.png" crc="261315570" seo="true" ref="index:recetas">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="iconos_redes.png" crc="330435278" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flecha-izquierda.png" crc="3975364059" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flecha-derecha.png" crc="152649081" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="logo-puravidalojana_blanco.png" crc="3857782704" seo="true" ref="index:recetas">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="quienes-somos.png" crc="336959440" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="que-hacemos.png" crc="482448688" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icono_articulo.png" crc="3845970596" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icono_educacion.png" crc="4032658498" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icono_recetas.png" crc="3876138000" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-07-09 at 52258 pm-u4736-fr.jpg" crc="3825622491" ref="index"/>
+    <file name="whatsapp image 2020-07-09 at 52909 pm-u4735-fr.jpg" crc="339345581" ref="index"/>
+    <file name="whatsapp image 2020-07-09 at 53136 pm-u4734-fr.jpg" crc="18370556" ref="index"/>
+    <file name="whatsapp image 2020-07-09 at 53003 pm-u4737-fr.jpg" crc="3923648648" ref="index"/>
+    <file name="whatsapp image 2020-07-09 at 53114 pm-u4738-fr.jpg" crc="190509553" ref="index"/>
+    <file name="whatsapp image 2020-07-09 at 52258 pm.jpg" crc="3905575987" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-07-09 at 52909 pm.jpg" crc="3910961560" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-07-09 at 53047 pm.jpg" crc="4095436474" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-07-09 at 53003 pm.jpg" crc="252892441" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-07-09 at 53114 pm.jpg" crc="287566713" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cerrado.png" crc="473227605" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="podcast-01.jpg" crc="88203584" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="episodio01.png" crc="496733564" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="microfono01.png" crc="4012277497" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp_mage-crop-u5377.jpg" crc="4278652655" seo="true" ref="index">
+      <caption webpage="index" alt="Certified International Health Coach (CIHC)"/>
+    </file>
+    <file name="sandraespinosa-crop-u5367.jpg" crc="3777029400" seo="true" ref="index">
+      <caption webpage="index" alt="Sandra Espinosa marketing en Pura Vida Lojana"/>
+    </file>
+    <file name="social_tw_sprite.png" crc="3922289204" ref="index:recetas">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="fb rotate (color).svg" crc="4137661702" ref="index:recetas"/>
+    <file name="fb rotate (color)_poster_u29395.png" crc="3791845524" ref="index:recetas"/>
+    <file name="fb rotate (color)2.svg" crc="4137661702" ref="index"/>
+    <file name="fb rotate (color)_poster_u33618.png" crc="3791845524" ref="index"/>
+    <file name="instagram rotate (grey).svg" crc="4124448378" ref="index:recetas"/>
+    <file name="instagram rotate (grey)_poster_u29399.png" crc="224573817" ref="index:recetas"/>
+    <file name="instagram rotate (color)-01.svg" crc="4149856779" ref="index:recetas"/>
+    <file name="instagram rotate (color)-01_poster_u29386.png" crc="4206680293" ref="index:recetas"/>
+    <file name="twitter rotate (color).svg" crc="4099437681" ref="index:recetas"/>
+    <file name="twitter rotate (color)_poster_u29415.png" crc="4081586687" ref="index:recetas"/>
+    <file name="wp2478972-silver-abstract-wallpapers.jpg" crc="3903822700" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="comentarios.jpg" crc="4095268176" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ramc3b3n-y-sandra-12001 (1).jpg" crc="4066635205" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="comentario02.jpg" crc="503920098" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxunchecked.jpg" crc="495023700" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxuncheckedrollover.jpg" crc="4076496830" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxuncheckedmousedown.jpg" crc="361678653" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxchecked.jpg" crc="477278992" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxcheckedrollover.jpg" crc="435737969" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxcheckedmousedown.jpg" crc="4004261994" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="enviar.png" crc="467490410" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-puravidalojana.png" crc="4212601131" seo="true" ref="index:recetas">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="youtube rotate (color).svg" crc="75913678" ref="index:recetas"/>
+    <file name="youtube rotate (color)_poster_u29374.png" crc="385087746" ref="index:recetas"/>
+    <file name="pinterest rotate (grey).svg" crc="4016459647" ref="index:recetas"/>
+    <file name="pinterest rotate (grey)_poster_u29378.png" crc="4040344800" ref="index:recetas"/>
+    <file name="pinterest rotate (color).svg" crc="518559180" ref="index:recetas"/>
+    <file name="pinterest rotate (color)_poster_u29391.png" crc="4007723105" ref="index:recetas"/>
+    <file name="corazon.png" crc="504275122" seo="true" ref="index:recetas">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="inicio-normal.png" crc="4127639562" ref="index:recetas">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-07-09 at 52909 pm-u4735-fr2.jpg" crc="4267937380" ref="index"/>
+    <file name="whatsapp image 2020-07-09 at 53136 pm-u4734-fr2.jpg" crc="444789480" ref="index"/>
+    <file name="whatsapp image 2020-07-09 at 53003 pm-u4737-fr2.jpg" crc="255644896" ref="index"/>
+    <file name="whatsapp image 2020-07-09 at 53114 pm-u4738-fr2.jpg" crc="4087407967" ref="index"/>
+    <file name="podcast-01-u5229-fr.jpg" crc="3938910744" ref="index"/>
+    <file name="whatsapp_mage-crop-u53772.jpg" crc="4146505926" seo="true" ref="index">
+      <caption webpage="index" alt="Certified International Health Coach (CIHC)"/>
+    </file>
+    <file name="sandraespinosa-crop-u53672.jpg" crc="4015154781" seo="true" ref="index">
+      <caption webpage="index" alt="Sandra Espinosa marketing en Pura Vida Lojana"/>
+    </file>
+    <file name="whatsapp image 2020-07-09 at 53136 pm.jpg" crc="3763587441" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-07-09 at 53003 pm-u4737-fr3.jpg" crc="129167735" ref="index"/>
+    <file name="whatsapp image 2020-07-09 at 53114 pm-u4738-fr3.jpg" crc="423010669" ref="index"/>
+    <file name="whatsapp image 2020-07-09 at 52258 pm-u4743-fr.jpg" crc="4208810755" ref="index"/>
+    <file name="whatsapp image 2020-07-09 at 52909 pm-u4746-fr.jpg" crc="3827561211" ref="index"/>
+    <file name="whatsapp image 2020-07-09 at 53047 pm-u4744-fr.jpg" crc="4065611831" ref="index"/>
+    <file name="whatsapp image 2020-07-09 at 53003 pm-u4745-fr.jpg" crc="65842262" ref="index"/>
+    <file name="whatsapp image 2020-07-09 at 53114 pm-u4742-fr.jpg" crc="3832547267" ref="index"/>
+    <file name="podcast-01-u5229-fr2.jpg" crc="316843944" ref="index"/>
+    <file name="episodio01-crop-u24711.png" crc="27949959" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp_mage-crop-u53773.jpg" crc="3785556984" seo="true" ref="index">
+      <caption webpage="index" alt="Certified International Health Coach (CIHC)"/>
+    </file>
+    <file name="sandraespinosa-crop-u53673.jpg" crc="403380598" seo="true" ref="index">
+      <caption webpage="index" alt="Sandra Espinosa marketing en Pura Vida Lojana"/>
+    </file>
+    <file name="menu.png" crc="3935061649" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-07-09 at 52258 pm-u4736-fr2.jpg" crc="121880392" ref="index"/>
+    <file name="whatsapp image 2020-07-09 at 52909 pm-u4735-fr3.jpg" crc="529261332" ref="index"/>
+    <file name="whatsapp image 2020-07-09 at 53136 pm-u4734-fr3.jpg" crc="3945721516" ref="index"/>
+    <file name="whatsapp image 2020-07-09 at 53003 pm-u4737-fr4.jpg" crc="3789815562" ref="index"/>
+    <file name="whatsapp image 2020-07-09 at 53114 pm-u4738-fr4.jpg" crc="4049159386" ref="index"/>
+    <file name="whatsapp image 2020-07-09 at 52258 pm-u4743-fr2.jpg" crc="3917451194" ref="index"/>
+    <file name="whatsapp image 2020-07-09 at 52909 pm-u4746-fr2.jpg" crc="205112774" ref="index"/>
+    <file name="whatsapp image 2020-07-09 at 53047 pm-u4744-fr2.jpg" crc="4091826959" ref="index"/>
+    <file name="whatsapp image 2020-07-09 at 53003 pm-u4745-fr2.jpg" crc="284076759" ref="index"/>
+    <file name="whatsapp image 2020-07-09 at 53114 pm-u4742-fr2.jpg" crc="74514037" ref="index"/>
+    <file name="episodio01-crop-u247112.png" crc="318006112" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp_mage-crop-u53774.jpg" crc="4118601042" seo="true" ref="index">
+      <caption webpage="index" alt="Certified International Health Coach (CIHC)"/>
+    </file>
+    <file name="sandraespinosa-crop-u53674.jpg" crc="4141290889" seo="true" ref="index">
+      <caption webpage="index" alt="Sandra Espinosa marketing en Pura Vida Lojana"/>
+    </file>
+    <file name="whatsapp image 2020-07-09 at 53003 pm-u4737-fr5.jpg" crc="3790564721" ref="index"/>
+    <file name="whatsapp image 2020-07-09 at 53114 pm-u4738-fr5.jpg" crc="352624234" ref="index"/>
+    <file name="whatsapp image 2020-07-09 at 52258 pm-u4743-fr3.jpg" crc="247076095" ref="index"/>
+    <file name="whatsapp image 2020-07-09 at 52909 pm-u4746-fr3.jpg" crc="4283207004" ref="index"/>
+    <file name="whatsapp image 2020-07-09 at 53047 pm-u4744-fr3.jpg" crc="358004751" ref="index"/>
+    <file name="whatsapp image 2020-07-09 at 53003 pm-u4745-fr3.jpg" crc="292564351" ref="index"/>
+    <file name="whatsapp image 2020-07-09 at 53114 pm-u4742-fr3.jpg" crc="77190847" ref="index"/>
+    <file name="episodio01-crop-u247113.png" crc="4013849588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp_mage-crop-u53775.jpg" crc="359438663" seo="true" ref="index">
+      <caption webpage="index" alt="Certified International Health Coach (CIHC)"/>
+    </file>
+    <file name="sandraespinosa-crop-u53675.jpg" crc="210240894" seo="true" ref="index">
+      <caption webpage="index" alt="Sandra Espinosa marketing en Pura Vida Lojana"/>
+    </file>
+    <file name="wp2478972-silver-abstract-wallpapers-u62213-fr.jpg" crc="279953263" ref="index"/>
+    <file name="comentarios-u5885-fr.jpg" crc="100511" ref="index"/>
+    <file name="recetas-favicon.ico" crc="110032566" ref="recetas"/>
+    <file name="desayuno_sostenido.jpg" crc="184107140" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="u68324-4.png" crc="4147410960" ref="recetas"/>
+    <file name="u68634-9.png" crc="4200613288" ref="recetas"/>
+    <file name="desayuno-de-campeones.jpg" crc="497410753" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="u69226-4.png" crc="3929632007" ref="recetas"/>
+    <file name="u69228-20.png" crc="259654695" ref="recetas"/>
+    <file name="desayuno_muesli_o_granola.jpg" crc="4079621183" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="u69345-6.png" crc="293718908" ref="recetas"/>
+    <file name="u69347-20.png" crc="4121515390" ref="recetas"/>
+    <file name="desayuno_muesli_o_granola2.jpg" crc="3974304131" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="u69585-31.png" crc="374480005" ref="recetas"/>
+    <file name="panqueques_integrales.jpg" crc="3966749051" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="u69587-8.png" crc="4073501435" ref="recetas"/>
+    <file name="ensalada de brócoli con aderezo dulce de ajonjolí.jpg" crc="529806957" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="u75183-5.png" crc="3902011690" ref="recetas"/>
+    <file name="u75186-28.png" crc="135245442" ref="recetas"/>
+    <file name="u76825-17.png" crc="3941489443" ref="recetas"/>
+    <file name="mango-con-salsa-de-maracuyc3a1.jpg" crc="4267988018" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="u75190-5.png" crc="3837663145" ref="recetas"/>
+    <file name="u75192-12.png" crc="4091448241" ref="recetas"/>
+    <file name="ensalada-griegajpg.jpg" crc="3801401910" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="u75180-4.png" crc="276013797" ref="recetas"/>
+    <file name="u75177-17.png" crc="426273094" ref="recetas"/>
+    <file name="ensalada-griega2.jpg" crc="3966966929" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="u75195-32.png" crc="4107702738" ref="recetas"/>
+    <file name="coco-tierno-al-curry.jpg" crc="3798830845" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="u75198-4.png" crc="136934765" ref="recetas"/>
+    <file name="barquitos-de-lechuga.jpg" crc="4290751371" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="u77151-17.png" crc="4029626505" ref="recetas"/>
+    <file name="u77154-17.png" crc="3788617961" ref="recetas"/>
+    <file name="ensalada-con-mellocos.jpg" crc="4274006308" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="u77290-5.png" crc="320712696" ref="recetas"/>
+    <file name="u77422-7.png" crc="494246588" ref="recetas"/>
+    <file name="fresca_brotes_mung.jpg" crc="199561067" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="u77425-14.png" crc="99881437" ref="recetas"/>
+    <file name="crema-de-espinaca.jpg" crc="214637463" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="u78115-4.png" crc="127480657" ref="recetas"/>
+    <file name="u78113-7.png" crc="156069261" ref="recetas"/>
+    <file name="locro-sandra1.jpg" crc="482519176" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="u78096-4.png" crc="3910860152" ref="recetas"/>
+    <file name="crema-de-choclo-1000.jpg" crc="9230001" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="u78109-4.png" crc="472639863" ref="recetas"/>
+    <file name="u78107-19.png" crc="3950184823" ref="recetas"/>
+    <file name="u78615-17.png" crc="3768367610" ref="recetas"/>
+    <file name="repe-vegano.jpg" crc="3780673449" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="u78103-10.png" crc="368644315" ref="recetas"/>
+    <file name="u78100-7.png" crc="40609354" ref="recetas"/>
+    <file name="espagueti-con-fideo-de-zucchini-u79510-fr.jpg" crc="4024391863" ref="recetas"/>
+    <file name="u79508-4.png" crc="3776949468" ref="recetas"/>
+    <file name="u79511-16.png" crc="496395232" ref="recetas"/>
+    <file name="verduras_nueces tostadas.jpg" crc="54215294" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="u79503-7.png" crc="4170821710" ref="recetas"/>
+    <file name="olla_lenta.jpg" crc="334010089" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="u79491-4.png" crc="4288431763" ref="recetas"/>
+    <file name="u79493-4.png" crc="215227427" ref="recetas"/>
+    <file name="u79494-38.png" crc="99380036" ref="recetas"/>
+    <file name="u79996-23.png" crc="180529462" ref="recetas"/>
+    <file name="sano.jpg" crc="3845405454" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="u79498-6.png" crc="78684054" ref="recetas"/>
+    <file name="albondigas_italianas.jpg" crc="4157633587" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="u80290-9.png" crc="4293101234" ref="recetas"/>
+    <file name="u80292-21.png" crc="3943396780" ref="recetas"/>
+    <file name="salsa_albondigas.jpg" crc="4024132662" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="ajonjoli y comino.jpg" crc="258304847" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="u80739-20.png" crc="4240118050" ref="recetas"/>
+    <file name="u81277-4.png" crc="42877953" ref="recetas"/>
+    <file name="mil-islas-u80730-fr.jpg" crc="4015227872" ref="recetas"/>
+    <file name="u81241-4.png" crc="234971284" ref="recetas"/>
+    <file name="u80734-7.png" crc="3935965002" ref="recetas"/>
+    <file name="u80729-22.png" crc="3893530696" ref="recetas"/>
+    <file name="ajonjoli y comino2.jpg" crc="53390011" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="u81659-33.png" crc="231164690" ref="recetas"/>
+    <file name="u81661-4.png" crc="4011070796" ref="recetas"/>
+    <file name="guaguas-morenas.jpg" crc="3857343723" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="u81655-34.png" crc="206096368" ref="recetas"/>
+    <file name="colada-morada1200.jpg" crc="315046250" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="u81656-14.png" crc="4198031992" ref="recetas"/>
+    <file name="pie-de-zapallo.jpg" crc="3771540525" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="u81649-4.png" crc="3946866610" ref="recetas"/>
+    <file name="u81647-14.png" crc="439251426" ref="recetas"/>
+    <file name="sánduche_vegano_rubén.jpg" crc="479496459" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="u82536-4.png" crc="3780974249" ref="recetas"/>
+    <file name="u82533-31.png" crc="338501025" ref="recetas"/>
+    <file name="smoothie-de-zapallo.jpg" crc="4249173858" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="u83074-4.png" crc="4192090000" ref="recetas"/>
+    <file name="u83075-21.png" crc="58241862" ref="recetas"/>
+    <file name="1_fondo_1200x525.png" crc="4034839975" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="2_food_down_1200x525.png" crc="168267689" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="3_food_up_1200x525.png" crc="3942055161" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="4_letrero_recetas_1200x525.png" crc="3811326561" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="5_olla_1200x525.png" crc="160824320" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="6_tapa_olla_1200x525.png" crc="97377324" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="u68324-42.png" crc="4147410960" ref="recetas"/>
+    <file name="u68634-92.png" crc="4200613288" ref="recetas"/>
+    <file name="u69226-42.png" crc="3929632007" ref="recetas"/>
+    <file name="u69228-202.png" crc="259654695" ref="recetas"/>
+    <file name="u69345-62.png" crc="293718908" ref="recetas"/>
+    <file name="u69347-202.png" crc="4121515390" ref="recetas"/>
+    <file name="u69585-312.png" crc="374480005" ref="recetas"/>
+    <file name="u69587-82.png" crc="4073501435" ref="recetas"/>
+    <file name="u75183-52.png" crc="3902011690" ref="recetas"/>
+    <file name="u75186-282.png" crc="34185857" ref="recetas"/>
+    <file name="u76825-172.png" crc="3848693288" ref="recetas"/>
+    <file name="u75190-52.png" crc="3837663145" ref="recetas"/>
+    <file name="u75192-122.png" crc="4091448241" ref="recetas"/>
+    <file name="u75180-42.png" crc="4087169761" ref="recetas"/>
+    <file name="u75177-172.png" crc="4241927597" ref="recetas"/>
+    <file name="u75195-322.png" crc="331541180" ref="recetas"/>
+    <file name="u75198-42.png" crc="136934765" ref="recetas"/>
+    <file name="u77151-172.png" crc="15075993" ref="recetas"/>
+    <file name="u77154-172.png" crc="3788617961" ref="recetas"/>
+    <file name="u77290-52.png" crc="157547864" ref="recetas"/>
+    <file name="u77422-72.png" crc="4221906166" ref="recetas"/>
+    <file name="u77425-142.png" crc="99881437" ref="recetas"/>
+    <file name="u78115-42.png" crc="127480657" ref="recetas"/>
+    <file name="u78113-72.png" crc="52002112" ref="recetas"/>
+    <file name="u78096-42.png" crc="4140554097" ref="recetas"/>
+    <file name="u78109-42.png" crc="3837699218" ref="recetas"/>
+    <file name="u78107-192.png" crc="3909950574" ref="recetas"/>
+    <file name="u78615-172.png" crc="3807759344" ref="recetas"/>
+    <file name="u78103-102.png" crc="306876266" ref="recetas"/>
+    <file name="u78100-72.png" crc="40609354" ref="recetas"/>
+    <file name="u79508-42.png" crc="3776949468" ref="recetas"/>
+    <file name="u79511-162.png" crc="4002870264" ref="recetas"/>
+    <file name="u79503-72.png" crc="4075706904" ref="recetas"/>
+    <file name="u79491-42.png" crc="3821497520" ref="recetas"/>
+    <file name="u79493-42.png" crc="3857226636" ref="recetas"/>
+    <file name="u79494-382.png" crc="3777934339" ref="recetas"/>
+    <file name="u79996-232.png" crc="159739430" ref="recetas"/>
+    <file name="u79498-62.png" crc="3975037739" ref="recetas"/>
+    <file name="u80290-92.png" crc="198956747" ref="recetas"/>
+    <file name="u80292-212.png" crc="3943396780" ref="recetas"/>
+    <file name="u80739-202.png" crc="476185291" ref="recetas"/>
+    <file name="u81277-42.png" crc="4089203157" ref="recetas"/>
+    <file name="mil-islas.jpg" crc="4226188974" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="u81241-42.png" crc="322301766" ref="recetas"/>
+    <file name="u80734-72.png" crc="4007448528" ref="recetas"/>
+    <file name="u80729-222.png" crc="3777281083" ref="recetas"/>
+    <file name="u81659-332.png" crc="4282977172" ref="recetas"/>
+    <file name="u81661-42.png" crc="4109393978" ref="recetas"/>
+    <file name="u81655-342.png" crc="4049505931" ref="recetas"/>
+    <file name="u81656-142.png" crc="3805196289" ref="recetas"/>
+    <file name="u81649-42.png" crc="4160242307" ref="recetas"/>
+    <file name="u81647-142.png" crc="439251426" ref="recetas"/>
+    <file name="u82536-42.png" crc="127413926" ref="recetas"/>
+    <file name="u82533-312.png" crc="177858205" ref="recetas"/>
+    <file name="u83074-42.png" crc="413123540" ref="recetas"/>
+    <file name="u83075-212.png" crc="380624918" ref="recetas"/>
+    <file name="1_fondo_960x526.png" crc="3810656659" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="2_food_down_960x526.png" crc="505883304" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="3_food_up_960x526.png" crc="231390629" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="4_letrero_recetas_960x526.png" crc="4290208070" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="5_olla_960x526.png" crc="3772686082" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="6_tapa_olla_960x526.png" crc="402595980" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="u68324-43.png" crc="4276029729" ref="recetas"/>
+    <file name="u68634-93.png" crc="4108332339" ref="recetas"/>
+    <file name="u69226-43.png" crc="4164226615" ref="recetas"/>
+    <file name="u69228-203.png" crc="3848711269" ref="recetas"/>
+    <file name="desayuno_muesli_o_granola-u69346-fr.jpg" crc="290316021" ref="recetas"/>
+    <file name="u69345-63.png" crc="3830436810" ref="recetas"/>
+    <file name="u69347-203.png" crc="356989148" ref="recetas"/>
+    <file name="u69585-313.png" crc="3801190433" ref="recetas"/>
+    <file name="u69587-83.png" crc="284329783" ref="recetas"/>
+    <file name="u75183-53.png" crc="4054493095" ref="recetas"/>
+    <file name="u75186-283.png" crc="279237913" ref="recetas"/>
+    <file name="u76825-173.png" crc="3873779579" ref="recetas"/>
+    <file name="u75190-53.png" crc="101068753" ref="recetas"/>
+    <file name="u75192-123.png" crc="4122286880" ref="recetas"/>
+    <file name="u75180-43.png" crc="4199292315" ref="recetas"/>
+    <file name="u75177-173.png" crc="4071993534" ref="recetas"/>
+    <file name="ensalada-griega2-u75175-fr.jpg" crc="461226218" ref="recetas"/>
+    <file name="u75195-323.png" crc="63951917" ref="recetas"/>
+    <file name="u75198-43.png" crc="4089130328" ref="recetas"/>
+    <file name="u77151-173.png" crc="4080772990" ref="recetas"/>
+    <file name="u77154-173.png" crc="3993445196" ref="recetas"/>
+    <file name="u77290-53.png" crc="4013139976" ref="recetas"/>
+    <file name="u77422-73.png" crc="3980054252" ref="recetas"/>
+    <file name="u77425-143.png" crc="505723595" ref="recetas"/>
+    <file name="u78115-43.png" crc="104886570" ref="recetas"/>
+    <file name="u78113-73.png" crc="4125107214" ref="recetas"/>
+    <file name="u78096-43.png" crc="4292399247" ref="recetas"/>
+    <file name="crema-de-choclo-1000-u78111-fr.jpg" crc="515909837" ref="recetas"/>
+    <file name="u78109-43.png" crc="365451928" ref="recetas"/>
+    <file name="u78107-193.png" crc="4059336736" ref="recetas"/>
+    <file name="u78615-173.png" crc="4194624601" ref="recetas"/>
+    <file name="u78103-103.png" crc="3820203353" ref="recetas"/>
+    <file name="u78100-73.png" crc="3968369453" ref="recetas"/>
+    <file name="espagueti-con-fideo-de-zucchini.jpg" crc="476258205" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="u79508-43.png" crc="67661170" ref="recetas"/>
+    <file name="u79511-163.png" crc="3934101115" ref="recetas"/>
+    <file name="u79503-73.png" crc="3959465193" ref="recetas"/>
+    <file name="u79491-43.png" crc="3937854738" ref="recetas"/>
+    <file name="u79493-43.png" crc="4186594117" ref="recetas"/>
+    <file name="u79494-383.png" crc="4139366602" ref="recetas"/>
+    <file name="u79996-233.png" crc="3822503154" ref="recetas"/>
+    <file name="u79498-63.png" crc="3964619457" ref="recetas"/>
+    <file name="u80290-93.png" crc="343435472" ref="recetas"/>
+    <file name="u80292-213.png" crc="217499245" ref="recetas"/>
+    <file name="u80739-203.png" crc="4145215239" ref="recetas"/>
+    <file name="u81277-43.png" crc="481819307" ref="recetas"/>
+    <file name="u80734-73.png" crc="143792601" ref="recetas"/>
+    <file name="u80729-223.png" crc="489075486" ref="recetas"/>
+    <file name="u81241-43.png" crc="330916099" ref="recetas"/>
+    <file name="u81659-333.png" crc="3952581258" ref="recetas"/>
+    <file name="u81661-43.png" crc="250839372" ref="recetas"/>
+    <file name="u81655-343.png" crc="4034747382" ref="recetas"/>
+    <file name="colada-morada1200-u81652-fr.jpg" crc="467958995" ref="recetas"/>
+    <file name="u81656-143.png" crc="519036085" ref="recetas"/>
+    <file name="u81649-43.png" crc="367466512" ref="recetas"/>
+    <file name="u81647-143.png" crc="4043814154" ref="recetas"/>
+    <file name="u82536-43.png" crc="286454558" ref="recetas"/>
+    <file name="u82533-313.png" crc="4124876472" ref="recetas"/>
+    <file name="u83074-43.png" crc="4254395243" ref="recetas"/>
+    <file name="u83075-213.png" crc="4017709290" ref="recetas"/>
+    <file name="1_fondo_768x526.jpg" crc="3902588763" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="2_food_down_768x526.png" crc="88151041" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="3_food_up_768x526.png" crc="46824486" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="4_letrero_recetas_768x526.png" crc="360094414" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="5_olla_768x526.png" crc="495581486" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="6_tapa_olla_768x526.png" crc="107925" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="u68324-44.png" crc="276334482" ref="recetas"/>
+    <file name="u68634-94.png" crc="341769809" ref="recetas"/>
+    <file name="u69226-44.png" crc="113306675" ref="recetas"/>
+    <file name="desayuno-de-campeones-u69227-fr.jpg" crc="324732095" ref="recetas"/>
+    <file name="u69228-204.png" crc="3992522950" ref="recetas"/>
+    <file name="u69345-64.png" crc="3871786528" ref="recetas"/>
+    <file name="desayuno_muesli_o_granola-u69346-fr2.jpg" crc="317884298" ref="recetas"/>
+    <file name="u69347-204.png" crc="173428800" ref="recetas"/>
+    <file name="desayuno_muesli_o_granola2-u69498-fr.jpg" crc="4024052591" ref="recetas"/>
+    <file name="u69585-314.png" crc="156552826" ref="recetas"/>
+    <file name="panqueques_integrales-u69586-fr.jpg" crc="128442022" ref="recetas"/>
+    <file name="u69587-84.png" crc="3969737517" ref="recetas"/>
+    <file name="u75183-54.png" crc="3759174985" ref="recetas"/>
+    <file name="u75186-284.png" crc="3865479411" ref="recetas"/>
+    <file name="u76825-174.png" crc="227768714" ref="recetas"/>
+    <file name="u75190-54.png" crc="423981434" ref="recetas"/>
+    <file name="mango-con-salsa-de-maracuyc3a1-u75191-fr.jpg" crc="4268644659" ref="recetas"/>
+    <file name="u75192-124.png" crc="4138556864" ref="recetas"/>
+    <file name="u75180-44.png" crc="279200417" ref="recetas"/>
+    <file name="u75177-174.png" crc="29865259" ref="recetas"/>
+    <file name="ensalada-griega2-u75175-fr2.jpg" crc="3989750269" ref="recetas"/>
+    <file name="u75195-324.png" crc="4238108097" ref="recetas"/>
+    <file name="u75198-44.png" crc="491373198" ref="recetas"/>
+    <file name="u77151-174.png" crc="3996334545" ref="recetas"/>
+    <file name="barquitos-de-lechuga-u77153-fr.jpg" crc="3966652983" ref="recetas"/>
+    <file name="u77154-174.png" crc="4259768609" ref="recetas"/>
+    <file name="u77290-54.png" crc="265333722" ref="recetas"/>
+    <file name="u77422-74.png" crc="3897152412" ref="recetas"/>
+    <file name="fresca_brotes_mung-u77424-fr.jpg" crc="4252055643" ref="recetas"/>
+    <file name="u77425-144.png" crc="4136271712" ref="recetas"/>
+    <file name="u78115-44.png" crc="3900808027" ref="recetas"/>
+    <file name="u78113-74.png" crc="135456064" ref="recetas"/>
+    <file name="u78096-44.png" crc="4153450079" ref="recetas"/>
+    <file name="u78109-44.png" crc="91973153" ref="recetas"/>
+    <file name="crema-de-choclo-1000-u78111-fr2.jpg" crc="4099165107" ref="recetas"/>
+    <file name="u78107-194.png" crc="470063078" ref="recetas"/>
+    <file name="u78615-174.png" crc="3939647797" ref="recetas"/>
+    <file name="u78103-104.png" crc="4026931460" ref="recetas"/>
+    <file name="u78100-74.png" crc="4137201615" ref="recetas"/>
+    <file name="u79508-44.png" crc="3925465331" ref="recetas"/>
+    <file name="u79511-164.png" crc="411653053" ref="recetas"/>
+    <file name="u79503-74.png" crc="3885760862" ref="recetas"/>
+    <file name="verduras_nueces tostadas-u79505-fr.jpg" crc="3760132517" ref="recetas"/>
+    <file name="u79491-44.png" crc="485139447" ref="recetas"/>
+    <file name="olla_lenta-u79492-fr.jpg" crc="185869265" ref="recetas"/>
+    <file name="u79493-44.png" crc="3877295828" ref="recetas"/>
+    <file name="u79494-384.png" crc="314262875" ref="recetas"/>
+    <file name="u79996-234.png" crc="226278774" ref="recetas"/>
+    <file name="u79498-64.png" crc="530512360" ref="recetas"/>
+    <file name="sano-u79499-fr.jpg" crc="4098494928" ref="recetas"/>
+    <file name="albondigas_italianas-u80291-fr.jpg" crc="527920983" ref="recetas"/>
+    <file name="u80290-94.png" crc="4017230452" ref="recetas"/>
+    <file name="u80292-214.png" crc="4254791776" ref="recetas"/>
+    <file name="u80739-204.png" crc="4201182003" ref="recetas"/>
+    <file name="u81277-44.png" crc="456882060" ref="recetas"/>
+    <file name="u80734-74.png" crc="3981431337" ref="recetas"/>
+    <file name="mil-islas-u80730-fr2.jpg" crc="4138020226" ref="recetas"/>
+    <file name="u80729-224.png" crc="4027681933" ref="recetas"/>
+    <file name="u81241-44.png" crc="420788797" ref="recetas"/>
+    <file name="u81661-44.png" crc="4095202367" ref="recetas"/>
+    <file name="guaguas-morenas-u81658-fr.jpg" crc="4093876993" ref="recetas"/>
+    <file name="u81659-334.png" crc="65128247" ref="recetas"/>
+    <file name="u81655-344.png" crc="388740381" ref="recetas"/>
+    <file name="colada-morada1200-u81652-fr2.jpg" crc="4241261310" ref="recetas"/>
+    <file name="u81656-144.png" crc="252410283" ref="recetas"/>
+    <file name="u81649-44.png" crc="224979128" ref="recetas"/>
+    <file name="u81647-144.png" crc="434365198" ref="recetas"/>
+    <file name="u82536-44.png" crc="4252745004" ref="recetas"/>
+    <file name="u82533-314.png" crc="364558820" ref="recetas"/>
+    <file name="u83074-44.png" crc="4149457020" ref="recetas"/>
+    <file name="u83075-214.png" crc="3820965738" ref="recetas"/>
+    <file name="1_fondo_550x526.jpg" crc="4261843917" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="2_food_down_550x526.png" crc="515601701" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="3_food_up_550x526.png" crc="448705408" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="4_letrero_recetas_550x526.png" crc="4009980592" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="5_olla_550x526.png" crc="4251680609" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="6_tapa_olla_550x526.png" crc="510737312" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="menu2.png" crc="3935061649" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="cerrado2.png" crc="473227605" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="u96773-4.png" crc="215429524" ref="recetas"/>
+    <file name="u96783-4.png" crc="311545270" ref="recetas"/>
+    <file name="u96803-4.png" crc="448119623" ref="recetas"/>
+    <file name="u96807-4.png" crc="3901141677" ref="recetas"/>
+    <file name="u96758-4.png" crc="3853205657" ref="recetas"/>
+    <file name="u96796-4.png" crc="102669015" ref="recetas"/>
+    <file name="u96766-4.png" crc="117332243" ref="recetas"/>
+    <file name="u96789-4.png" crc="4244135470" ref="recetas"/>
+    <file name="u68324-45.png" crc="3931775360" ref="recetas"/>
+    <file name="desayuno_sostenido-u68365-fr.jpg" crc="48617209" ref="recetas"/>
+    <file name="u68634-95.png" crc="4050621425" ref="recetas"/>
+    <file name="u69226-45.png" crc="61339610" ref="recetas"/>
+    <file name="desayuno-de-campeones-u69227-fr2.jpg" crc="213796216" ref="recetas"/>
+    <file name="u69228-205.png" crc="413177808" ref="recetas"/>
+    <file name="u69345-65.png" crc="28189035" ref="recetas"/>
+    <file name="desayuno_muesli_o_granola-u69346-fr3.jpg" crc="4017762315" ref="recetas"/>
+    <file name="u69347-205.png" crc="3878301446" ref="recetas"/>
+    <file name="desayuno_muesli_o_granola2-u69498-fr2.jpg" crc="3883610863" ref="recetas"/>
+    <file name="u69585-315.png" crc="3949871271" ref="recetas"/>
+    <file name="panqueques_integrales-u69586-fr2.jpg" crc="3845405315" ref="recetas"/>
+    <file name="u69587-85.png" crc="212092566" ref="recetas"/>
+    <file name="u75183-55.png" crc="3867117496" ref="recetas"/>
+    <file name="ensalada de brócoli con aderezo dulce de ajonjolí-u75185-fr.jpg" crc="3999944867" ref="recetas"/>
+    <file name="u75186-285.png" crc="258298896" ref="recetas"/>
+    <file name="u76825-175.png" crc="3823096299" ref="recetas"/>
+    <file name="u75190-55.png" crc="4025158333" ref="recetas"/>
+    <file name="mango-con-salsa-de-maracuyc3a1-u75191-fr2.jpg" crc="499591254" ref="recetas"/>
+    <file name="u75192-125.png" crc="311145175" ref="recetas"/>
+    <file name="u75180-45.png" crc="4196250999" ref="recetas"/>
+    <file name="ensalada-griegajpg-u75176-fr.jpg" crc="4245145532" ref="recetas"/>
+    <file name="ensalada-griega2-u75175-fr3.jpg" crc="3921300065" ref="recetas"/>
+    <file name="u75177-175.png" crc="73401890" ref="recetas"/>
+    <file name="u75195-325.png" crc="414313270" ref="recetas"/>
+    <file name="coco-tierno-al-curry-u75197-fr.jpg" crc="3961770084" ref="recetas"/>
+    <file name="u75198-45.png" crc="276984833" ref="recetas"/>
+    <file name="u77151-175.png" crc="4194129333" ref="recetas"/>
+    <file name="barquitos-de-lechuga-u77153-fr2.jpg" crc="3939549586" ref="recetas"/>
+    <file name="u77154-175.png" crc="3759013557" ref="recetas"/>
+    <file name="u77290-55.png" crc="4053964871" ref="recetas"/>
+    <file name="ensalada-con-mellocos-u77292-fr.jpg" crc="247789468" ref="recetas"/>
+    <file name="u77422-75.png" crc="4033112388" ref="recetas"/>
+    <file name="fresca_brotes_mung-u77424-fr2.jpg" crc="3850270905" ref="recetas"/>
+    <file name="u77425-145.png" crc="59496474" ref="recetas"/>
+    <file name="u78115-45.png" crc="3835502740" ref="recetas"/>
+    <file name="crema-de-espinaca-u78117-fr.jpg" crc="3910822379" ref="recetas"/>
+    <file name="u78113-75.png" crc="366913130" ref="recetas"/>
+    <file name="u78096-45.png" crc="4222071646" ref="recetas"/>
+    <file name="locro-sandra1-u78097-fr.jpg" crc="4286894378" ref="recetas"/>
+    <file name="u78109-45.png" crc="334960551" ref="recetas"/>
+    <file name="crema-de-choclo-1000-u78111-fr3.jpg" crc="4280133998" ref="recetas"/>
+    <file name="u78615-175.png" crc="3759137659" ref="recetas"/>
+    <file name="u78107-195.png" crc="4050759100" ref="recetas"/>
+    <file name="u78103-105.png" crc="534541753" ref="recetas"/>
+    <file name="repe-vegano-u78104-fr.jpg" crc="210043616" ref="recetas"/>
+    <file name="u78100-75.png" crc="268174262" ref="recetas"/>
+    <file name="u79508-45.png" crc="3767474030" ref="recetas"/>
+    <file name="espagueti-con-fideo-de-zucchini-u79510-fr2.jpg" crc="4020661425" ref="recetas"/>
+    <file name="u79511-165.png" crc="393728249" ref="recetas"/>
+    <file name="u79503-75.png" crc="4187442137" ref="recetas"/>
+    <file name="verduras_nueces tostadas-u79505-fr2.jpg" crc="4189519283" ref="recetas"/>
+    <file name="u79491-45.png" crc="3848608860" ref="recetas"/>
+    <file name="olla_lenta-u79492-fr2.jpg" crc="3814406810" ref="recetas"/>
+    <file name="u79493-45.png" crc="4105697694" ref="recetas"/>
+    <file name="u79494-385.png" crc="4218282356" ref="recetas"/>
+    <file name="u79996-235.png" crc="3838804322" ref="recetas"/>
+    <file name="u79498-65.png" crc="4240536053" ref="recetas"/>
+    <file name="sano-u79499-fr2.jpg" crc="3949395615" ref="recetas"/>
+    <file name="albondigas_italianas-u80291-fr2.jpg" crc="4077072645" ref="recetas"/>
+    <file name="u80290-95.png" crc="3813950851" ref="recetas"/>
+    <file name="u80292-215.png" crc="208200606" ref="recetas"/>
+    <file name="u80739-205.png" crc="302783612" ref="recetas"/>
+    <file name="u81277-45.png" crc="4202067985" ref="recetas"/>
+    <file name="u80734-75.png" crc="3844444235" ref="recetas"/>
+    <file name="mil-islas-u80730-fr3.jpg" crc="4014621330" ref="recetas"/>
+    <file name="u80729-225.png" crc="454486065" ref="recetas"/>
+    <file name="u81241-45.png" crc="3891123757" ref="recetas"/>
+    <file name="u81661-45.png" crc="4248169634" ref="recetas"/>
+    <file name="guaguas-morenas-u81658-fr2.jpg" crc="251425482" ref="recetas"/>
+    <file name="u81659-335.png" crc="4002563233" ref="recetas"/>
+    <file name="colada-morada1200-u81652-fr3.jpg" crc="3924604719" ref="recetas"/>
+    <file name="u81655-345.png" crc="190650276" ref="recetas"/>
+    <file name="u81656-145.png" crc="340085601" ref="recetas"/>
+    <file name="u81649-45.png" crc="4282630338" ref="recetas"/>
+    <file name="pie-de-zapallo-u81646-fr.jpg" crc="4096326446" ref="recetas"/>
+    <file name="u81647-145.png" crc="103695217" ref="recetas"/>
+    <file name="u82536-45.png" crc="4242448227" ref="recetas"/>
+    <file name="sánduche_vegano_rubén-u82532-fr.jpg" crc="307291605" ref="recetas"/>
+    <file name="u82533-315.png" crc="4184562477" ref="recetas"/>
+    <file name="u83074-45.png" crc="296994542" ref="recetas"/>
+    <file name="smoothie-de-zapallo-u83076-fr.jpg" crc="229221516" ref="recetas"/>
+    <file name="u83075-215.png" crc="458175868" ref="recetas"/>
+    <file name="1_fondo_320x526.jpg" crc="3787028837" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="2_food_down_320x526.png" crc="3825837386" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="3_food_up_320x526.png" crc="523601465" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="4_letrero_recetas_320x526.png" crc="520157366" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="5_olla_320x526.png" crc="360717751" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="6_tapa_olla_320x526.png" crc="4150048155" ref="recetas">
+      <caption webpage="recetas" alt=""/>
+    </file>
+    <file name="u95097-4.png" crc="3912810939" ref="recetas"/>
+    <file name="u95094-4.png" crc="3969508280" ref="recetas"/>
+    <file name="u95078-4.png" crc="3840442663" ref="recetas"/>
+    <file name="u95087-4.png" crc="3905313509" ref="recetas"/>
+    <file name="u95073-4.png" crc="349451045" ref="recetas"/>
+    <file name="u95106-4.png" crc="3863624698" ref="recetas"/>
+    <file name="u95856-4.png" crc="3927234822" ref="recetas"/>
+    <file name="u95765-4.png" crc="4062610551" ref="recetas"/>
+    <file name="u68324-46.png" crc="4268576780" ref="recetas"/>
+    <file name="u68634-96.png" crc="4050621425" ref="recetas"/>
+    <file name="u69226-46.png" crc="61339610" ref="recetas"/>
+    <file name="u69228-206.png" crc="413177808" ref="recetas"/>
+    <file name="u69345-66.png" crc="28189035" ref="recetas"/>
+    <file name="u69347-206.png" crc="3878301446" ref="recetas"/>
+    <file name="u69585-316.png" crc="3949871271" ref="recetas"/>
+    <file name="u69587-86.png" crc="325281092" ref="recetas"/>
+    <file name="u75183-56.png" crc="324785541" ref="recetas"/>
+    <file name="u75186-286.png" crc="24356634" ref="recetas"/>
+    <file name="u76825-176.png" crc="3823096299" ref="recetas"/>
+    <file name="u75190-56.png" crc="4025158333" ref="recetas"/>
+    <file name="u75192-126.png" crc="473784861" ref="recetas"/>
+    <file name="u75180-46.png" crc="4196250999" ref="recetas"/>
+    <file name="u75177-176.png" crc="497269976" ref="recetas"/>
+    <file name="u75195-326.png" crc="414313270" ref="recetas"/>
+    <file name="coco-tierno-al-curry-u75197-fr2.jpg" crc="4027306709" ref="recetas"/>
+    <file name="u75198-46.png" crc="193165413" ref="recetas"/>
+    <file name="u77151-176.png" crc="4194129333" ref="recetas"/>
+    <file name="barquitos-de-lechuga-u77153-fr3.jpg" crc="308450860" ref="recetas"/>
+    <file name="u77154-176.png" crc="3759013557" ref="recetas"/>
+    <file name="u77290-56.png" crc="4053964871" ref="recetas"/>
+    <file name="ensalada-con-mellocos-u77292-fr2.jpg" crc="103861913" ref="recetas"/>
+    <file name="u77422-76.png" crc="4033112388" ref="recetas"/>
+    <file name="fresca_brotes_mung-u77424-fr3.jpg" crc="25990784" ref="recetas"/>
+    <file name="u77425-146.png" crc="59496474" ref="recetas"/>
+    <file name="u78115-46.png" crc="53874155" ref="recetas"/>
+    <file name="u78113-76.png" crc="518513559" ref="recetas"/>
+    <file name="u78096-46.png" crc="4249947184" ref="recetas"/>
+    <file name="u78109-46.png" crc="334960551" ref="recetas"/>
+    <file name="u78615-176.png" crc="277845769" ref="recetas"/>
+    <file name="u78107-196.png" crc="4050759100" ref="recetas"/>
+    <file name="u78103-106.png" crc="534541753" ref="recetas"/>
+    <file name="repe-vegano-u78104-fr2.jpg" crc="4256227964" ref="recetas"/>
+    <file name="u78100-76.png" crc="3866403003" ref="recetas"/>
+    <file name="u79508-46.png" crc="530790821" ref="recetas"/>
+    <file name="u79511-166.png" crc="4072977941" ref="recetas"/>
+    <file name="u79503-76.png" crc="472562941" ref="recetas"/>
+    <file name="u79491-46.png" crc="3848608860" ref="recetas"/>
+    <file name="u79493-46.png" crc="3867362352" ref="recetas"/>
+    <file name="u79494-386.png" crc="267647582" ref="recetas"/>
+    <file name="u79996-236.png" crc="3838804322" ref="recetas"/>
+    <file name="u79498-66.png" crc="4240536053" ref="recetas"/>
+    <file name="sano-u79499-fr3.jpg" crc="115352922" ref="recetas"/>
+    <file name="u80290-96.png" crc="3813950851" ref="recetas"/>
+    <file name="u80292-216.png" crc="208200606" ref="recetas"/>
+    <file name="u80739-206.png" crc="321656897" ref="recetas"/>
+    <file name="u81277-46.png" crc="259739973" ref="recetas"/>
+    <file name="u80734-76.png" crc="3844444235" ref="recetas"/>
+    <file name="u80729-226.png" crc="454486065" ref="recetas"/>
+    <file name="u81241-46.png" crc="4110300601" ref="recetas"/>
+    <file name="u81661-46.png" crc="27019912" ref="recetas"/>
+    <file name="u81659-336.png" crc="4210329358" ref="recetas"/>
+    <file name="u81655-346.png" crc="190650276" ref="recetas"/>
+    <file name="u81656-146.png" crc="340085601" ref="recetas"/>
+    <file name="u81649-46.png" crc="4282630338" ref="recetas"/>
+    <file name="pie-de-zapallo-u81646-fr2.jpg" crc="416586259" ref="recetas"/>
+    <file name="u81647-146.png" crc="103695217" ref="recetas"/>
+    <file name="u82536-46.png" crc="507265486" ref="recetas"/>
+    <file name="u82533-316.png" crc="3787071684" ref="recetas"/>
+    <file name="u83074-46.png" crc="4018570399" ref="recetas"/>
+    <file name="u83075-216.png" crc="4038798861" ref="recetas"/>
+  </folder>
+  <file name="index.html" crc="4173136824" seo="true" mt="1596040277805" redirect="true"/>
+  <file name="recetas.html" crc="3817520815" seo="true" mt="1596042071819" redirect="true"/>
+  <site>
+    <asset filename="font-awesome.css" muse_href="upload:U26288"/>
+    <asset filename="hover-min.css" muse_href="upload:U27372"/>
+    <asset filename="jquery.counterup.min.js" muse_href="upload:U28614"/>
+    <asset filename="artiss_-_tropical__summer.mp3" muse_href="upload:U59416"/>
+    <asset filename="articulo_academico.pdf" muse_href="upload:U65360"/>
+    <asset filename="deficiencia-de-nutrientes.pdf" muse_href="upload:U66367"/>
+    <asset filename="puravidalojana_podcast01_vidasintemor.mp3" muse_href="upload:U67137"/>
+    <asset filename="6_tapa_olla_1900x710.png" muse_href="upload:U70816"/>
+    <asset filename="5_olla_1900x710.png" muse_href="upload:U70818"/>
+    <asset filename="4_letrero_recetas_1900x710.png" muse_href="upload:U70820"/>
+    <asset filename="3_food_up_1900x710.png" muse_href="upload:U70825"/>
+    <asset filename="2_food_down_1900x710.png" muse_href="upload:U70830"/>
+    <asset filename="1_fondo_1900x710.png" muse_href="upload:U70835"/>
+    <paragraphStyle className="normal_text" uid="U49"/>
+    <paragraphStyle className="Texto-Bot-n" uid="U733"/>
+    <paragraphStyle className="T-tulo-H1" uid="U743"/>
+    <paragraphStyle className="Texto" uid="U751"/>
+    <paragraphStyle className="Texto-bot-n-formulario" uid="U765"/>
+    <paragraphStyle className="Texto-formulario" uid="U768"/>
+    <paragraphStyle className="Texto-Subt-tulo" uid="U774"/>
+    <paragraphStyle className="T-tulos-H2" uid="U780"/>
+    <paragraphStyle className="Subt-tulos-H3" uid="U785"/>
+    <nestedListStyle className="nls-None" uid="U52"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Inicio" filename="index.html" muse_href="page:U93" master="U72">
+        <breakpoint uid="U111" maxwidth="320" minwidth="0" squishy="false"/>
+        <breakpoint uid="U107" maxwidth="550" minwidth="321" squishy="false"/>
+        <breakpoint uid="U103" maxwidth="768" minwidth="551" squishy="false"/>
+        <breakpoint uid="U95" maxwidth="960" minwidth="769" squishy="false"/>
+        <breakpoint uid="U83" maxwidth="1200" minwidth="961" squishy="false"/>
+        <anchor name="inicio" html_id="inicio" muse_href="anchor:U82:U7345" includeInBPs="U111,U107,U103,U95,U83"/>
+        <anchor name="nosotros" html_id="nosotros" muse_href="anchor:U82:U7352" includeInBPs="U111,U107,U103,U95,U83"/>
+        <anchor name="servicios" html_id="servicios" muse_href="anchor:U82:U7359" includeInBPs="U111,U107,U103,U95,U83"/>
+        <anchor name="galeria" html_id="galeria" muse_href="anchor:U82:U7366" includeInBPs="U111,U107,U103,U95,U83"/>
+        <anchor name="equipo" html_id="equipo" muse_href="anchor:U82:U7373" includeInBPs="U111,U107,U103,U95,U83"/>
+        <anchor name="testimonios" html_id="testimonios" muse_href="anchor:U82:U7394" includeInBPs="U111,U107,U103,U95,U83"/>
+        <anchor name="contacto" html_id="contacto" muse_href="anchor:U82:U7401" includeInBPs="U111,U107,U103,U95,U83"/>
+        <anchor name="portafolio_productos" html_id="portafolio_productos" muse_href="anchor:U82:U8072" includeInBPs="U111,U107,U103,U95,U83"/>
+        <anchor name="ArtAcademico" html_id="artacademico" muse_href="anchor:U82:U62157" includeInBPs="U111,U107,U103,U95,U83"/>
+        <anchor name="redes-sociales" html_id="redes-sociales" muse_href="anchor:U82:U76077" includeInBPs="U111,U107,U103,U95,U83"/>
+      </page>
+      <masterPage name="A-Master" master="U62" uid="U72">
+        <breakpoint uid="U73" maxwidth="1200" minwidth="0" squishy="false"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="1200" minwidth="0" squishy="false"/>
+      </masterPage>
+      <page name="recetas" filename="recetas.html" muse_href="page:U38464" master="U72">
+        <breakpoint uid="U68785" maxwidth="320" minwidth="0" squishy="false"/>
+        <breakpoint uid="U38493" maxwidth="550" minwidth="321" squishy="false"/>
+        <breakpoint uid="U38549" maxwidth="768" minwidth="551" squishy="false"/>
+        <breakpoint uid="U38577" maxwidth="960" minwidth="769" squishy="false"/>
+        <breakpoint uid="U38382" maxwidth="1200" minwidth="961" squishy="false"/>
+        <breakpoint uid="U70584" maxwidth="1900" minwidth="1201" squishy="false"/>
+        <anchor name="desayuno" html_id="desayuno" muse_href="anchor:U38381:U41493" includeInBPs="U68785,U38493,U38549,U38577,U38382,U70584"/>
+        <anchor name="inicio-recetas" html_id="inicio-recetas" muse_href="anchor:U38381:U41633" includeInBPs="U68785,U38493,U38549,U38577,U38382,U70584"/>
+        <anchor name="ensalada" html_id="ensalada" muse_href="anchor:U38381:U51377" includeInBPs="U68785,U38493,U38549,U38577,U38382,U70584"/>
+        <anchor name="sopa" html_id="sopa" muse_href="anchor:U38381:U54589" includeInBPs="U68785,U38493,U38549,U38577,U38382,U70584"/>
+        <anchor name="plato-fuerte" html_id="plato-fuerte" muse_href="anchor:U38381:U55047" includeInBPs="U68785,U38493,U38549,U38577,U38382,U70584"/>
+        <anchor name="aderezo" html_id="aderezo" muse_href="anchor:U38381:U55505" includeInBPs="U68785,U38493,U38549,U38577,U38382,U70584"/>
+        <anchor name="postre" html_id="postre" muse_href="anchor:U38381:U57361" includeInBPs="U68785,U38493,U38549,U38577,U38382,U70584"/>
+        <anchor name="bebida" html_id="bebida" muse_href="anchor:U38381:U58277" includeInBPs="U68785,U38493,U38549,U38577,U38382,U70584"/>
+        <anchor name="sandwich" html_id="sandwich" muse_href="anchor:U38381:U82321" includeInBPs="U68785,U38493,U38549,U38577,U38382,U70584"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>
